@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Restaurant-website-in-React/static/css/main.9d9fdd4d.css",
+    "main.js": "/Restaurant-website-in-React/static/js/main.f1b84b60.js",
+    "index.html": "/Restaurant-website-in-React/index.html",
+    "main.9d9fdd4d.css.map": "/Restaurant-website-in-React/static/css/main.9d9fdd4d.css.map",
+    "main.f1b84b60.js.map": "/Restaurant-website-in-React/static/js/main.f1b84b60.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d9fdd4d.css",
+    "static/js/main.f1b84b60.js"
+  ]
+}
